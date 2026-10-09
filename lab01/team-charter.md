@@ -7,7 +7,7 @@
 | PHO Phatsophal      | @ phatsophal       | Scrum Master    |            |
 | SOUNGHAN Sethaleaph | @ WilliamSuong     | Developer       |            |
 | YEN Chhavorn        | @ chhavorn43-blip  | Developer       |            |
-| TANG Hengly         | @ tanghengly       | Developer       |            |
+| TANG Hengly         | @ tanghengly       | Developer       |             |
 
 Scrum Master rotation: Sprint 1 = ______, Sprint 2 = ______.
 The Product Owner stays the same all semester.
