@@ -1,4 +1,4 @@
-# Team charter · <team name> (v1.0, 2026-__-__)
+# Team charter · <team name> (v1.0, 2026-10-09)
 
 ## Members and roles
 | Member              | GitHub             | Role (Sprint 1) | Shared hat |
